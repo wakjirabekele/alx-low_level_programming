@@ -1,1 +1,1 @@
-Create the static library libmy.a
+Create the static library libmy.a 
