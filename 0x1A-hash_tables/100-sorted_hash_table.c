@@ -1,5 +1,6 @@
 /*
  * File: 100-sorted_hash_table.c
+ * Auth: wakjira Bekele
  */
 
 #include "hash_tables.h"
